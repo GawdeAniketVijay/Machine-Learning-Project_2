@@ -11,3 +11,4 @@ In this project i have used various algorithms to predict the score of losing cu
 The finding of the research conclude the extra tree classifer is the best overall learner with an SVM and XGB classifier also provide great prediction capability to tackle of customer churn haunting the telecom industry.
 
 
+
